@@ -1,0 +1,96 @@
+.icon{
+    width: 20px;
+    height: 20px;
+}
+.complet{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.renseignement{
+    background-attachment: fixed;
+    background-color: white;
+}
+.profil{
+    text-align: justify;
+}
+.moi{
+    border-image: 13px;
+    border-radius: 50%;
+}
+.image{
+    text-align: center;
+}
+.titre{
+    text-align: center;
+}
+.commentaire{
+    text-align: auto;
+    padding: 20px;
+    background-color: white;
+    border:white solid 10px;
+    border-radius: 0px;
+}
+body{
+    background-color:white;
+}
+.detail{
+    border: black solid 13px;
+    border-radius: 50px;
+    background-color: grey;
+}
+.details{
+    background-color:white;
+    align-items: center;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    bottom: 0;
+}
+.pied{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+ }.facebook{
+    width: 25px;
+    height: 25px;
+}
+.linkedin{
+    width: 25px;
+    height: 25px;
+}
+.twitter{
+    width: 25px;
+    height: 25px;
+}
+.logos{
+    justify-content: center;
+    display: flex;
+}
+.professionel{
+    background-color: grey;
+    border: grey solid 5px;
+    border-radius: 50px;
+}
+.formation{
+    background-color: grey;
+    border: grey solid 5px;
+    border-radius: 50px;
+}
+.competence{
+    background-color: grey;
+    border: grey solid 5px;
+    border-radius: 50px;
+}
+.interet{
+    border: grey solid 5px;
+    border-radius: 50px;
+    background-color: grey;
+}
+.haut{
+    background-image: url(computer.jpg);
+    background-attachment: scroll ;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,49 @@
+.vide{
+    height: 150px;
+}
+.moi{
+    border-radius: 50%;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+}
+.page{
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.coordone{
+    padding: 50px;
+    background-color: white;
+    align-items: center;
+}
+.pied{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: grey;
+}
+.position{
+    width: 150px;
+}
+.phone{
+    width: 150px;
+}
+.mail{
+    width: 150px;
+}
+body{
+    background-image: url(computer.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.boutton{
+    background-color:grey;
+    width: 100px;
+    height: 50px;
+}
+@media all and (max-width: 1280px)
